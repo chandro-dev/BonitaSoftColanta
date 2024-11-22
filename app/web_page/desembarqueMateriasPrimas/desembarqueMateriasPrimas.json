@@ -1,0 +1,32 @@
+{
+  "id" : "desembarqueMateriasPrimas",
+  "name" : "desembarqueMateriasPrimas",
+  "type" : "form",
+  "uuid" : "c86a48c4-51d5-42d5-8991-97ce609b12b3",
+  "modelVersion" : "2.6",
+  "lastUpdate" : 1732288035809,
+  "description" : "Page generated with Bonita UI designer",
+  "rows" : [
+    [ ]
+  ],
+  "variables" : { },
+  "assets" : [
+    {
+      "id" : "050212ec-ed6e-46cc-87d6-b88e5828c1bc",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "c0e36e71-ba3f-4685-ae6b-28cd9ac62863",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "webResources" : [ ],
+  "hasValidationError" : false
+}
